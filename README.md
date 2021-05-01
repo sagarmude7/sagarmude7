@@ -1,10 +1,15 @@
 <div align="center">
 
-<h2>Hi there! 👋🤓 I'm Sagar Mude </h2>
+<h2>Hi there! 👋🤓 I'm ֆaɢaʀ </h2>
 
 </div>
 
-### Hey, Welcome to my Github Page 😀
+<div align="center">
+
+<h3>I'm a passionate web developer and a 2nd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
+
+</div>
+
 
 ## Who am I?
 
