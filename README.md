@@ -42,11 +42,13 @@
 
 ## 📞 Contact Me
 
+www.linkedin.com/in/sagar-mude
+
 <p>
 
-<a title="Twitter Profile" href="https://twitter.com/SAGARMUDE1"><img alt="MY Twitter Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/twitter.png" height="35" /></a>
+<a title="LinkedIn Profile" href="www.linkedin.com/in/sagar-mude"><img alt="MY Twitter Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/twitter.png" height="35" /></a>
 
-<a title="LinkedIn Profile" href="www.linkedin.com/in/sagar-mude"><img alt="MY LinkedIn Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/linkedin.png" height="35" /></a>
+<a title="Twitter Profile" href="https://twitter.com/SAGARMUDE1"><img alt="MY Twitter Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/twitter.png" height="35" /></a>
 
 <a title="Instagram Profile" href="https://www.instagram.com/sagarmude7/"><img alt="MY Instagram Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/instagram.png" height="35" /></a>
 
