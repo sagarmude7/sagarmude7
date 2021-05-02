@@ -17,9 +17,15 @@
 </div>
 
 ## ✨ Skills
+
 - Web Devlopment
 - C++,Python,JavaScript
 - Digital Marketing
+
+## 📞 Contact Me
+
+<!-- <a title="Twitter Profile" href="https://twitter.com/vishalpatil1810">
+<img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" height="35" /></a> -->
 
 ## 💻 My Best Projects
 
@@ -27,12 +33,9 @@
 - [Youtube Clone](https://github.com/sagarmude7/Youtube-Clone)
 - [more projects...](https://github.com/sagarmude7?tab=repositories)
 
-### 💻  My Github Logs
+### 💻 My Github Logs
 
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sagarmude7&theme=radical&show_icons=true" />
   <img height="160em" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmude7" alt="sagarmude7" />
 </p>
-
-
-
