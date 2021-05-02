@@ -1,26 +1,36 @@
-<div align="center">
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤓 I'm ֆaɢaʀ </h1>
 
-<h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤓 I'm ֆaɢaʀ </h1>
+<h3 align="center">I'm a passionate web developer and a 2nd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
 
-</div>
+<h3 align="center">"Stay Hungry, Stay Foolish"</h3>
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic)
 
-<h3>I'm a passionate web developer and a 2nd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
-
-</div>
-
-<div align="center">
-
-<h3>"Stay Hungry, Stay Foolish"</h3>
-
-</div>
+- 💬 Ask me about **C++, Python, Web-Development**
+- 📫 How to reach me- **sagarmude7@gmail.com**
+- 👨‍💻 Intrested in - **Competative Programming, Web-Development, Blockchain, Marketing**
 
 ## ✨ Skills
 
 - Web Devlopment
 - C++,Python,JavaScript
 - Digital Marketing
+
+## My Languages and Tools:
+
+<p align="center">
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c.png" alt="C" title="C" height="45"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c%2B%2B.png" alt="cplusplus" title="C++" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/python.png" alt="python" title="Python" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/jupyter.png" alt="jupyter" title="Jupyter" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/sql.png" alt="sqlite" title="SQLite3" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/html.png" title="HTML5" alt="html5" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/css.png" alt="css3" title="CSS3" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/javascript.png" alt="javascript" title="Javascript" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/bootstrap.png" alt="bootstrap" title="Bootstrap 4" height="40"/>
+  
+  
+  </p>
 
 ## 💻 My Best Projects
 
@@ -30,13 +40,14 @@
 
 ## 📞 Contact Me
 
+<p>
 <a title="LinkedIn Profile" href="www.linkedin.com/in/sagar-mude"><img alt="MY LinkedIn Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/linkedin.png" height="35" /></a>
 
 <p><a title="Twitter Profile" href="https://twitter.com/SAGARMUDE1"><img alt="MY Twitter Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/twitter.png" height="35" /></a>
 
 <a title="Instagram Profile" href="https://www.instagram.com/sagarmude7/"><img alt="MY Instagram Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/instagram.png" height="35" /></a>
 
-![](https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic)
+</p>
 
 ### 💻 My Github Logs
 
