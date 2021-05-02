@@ -22,6 +22,12 @@
 - C++,Python,JavaScript
 - Digital Marketing
 
+## 💻 My Best Projects
+
+- [BookXchanger](https://github.com/sagarmude7/BookXchanger)
+- [Youtube Clone](https://github.com/sagarmude7/Youtube-Clone)
+- [more projects...](https://github.com/sagarmude7?tab=repositories)
+
 ## 📞 Contact Me
 
 <a title="LinkedIn Profile" href="www.linkedin.com/in/sagar-mude"><img alt="MY LinkedIn Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/linkedin.png" height="35" /></a>
@@ -30,11 +36,7 @@
 
 <a title="Instagram Profile" href="https://www.instagram.com/sagarmude7/"><img alt="MY Instagram Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/instagram.png" height="35" /></a>
 
-## 💻 My Best Projects
-
-- [BookXchanger](https://github.com/sagarmude7/BookXchanger)
-- [Youtube Clone](https://github.com/sagarmude7/Youtube-Clone)
-- [more projects...](https://github.com/sagarmude7?tab=repositories)
+![](https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic)
 
 ### 💻 My Github Logs
 
