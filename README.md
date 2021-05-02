@@ -24,8 +24,7 @@
 
 ## 📞 Contact Me
 
-<!-- <a title="Twitter Profile" href="https://twitter.com/vishalpatil1810">
-<img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" height="35" /></a> -->
+<a title="Email" href="mailto:sagarmude7@gmail.com"><img alt="My Email" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/gmail.png" height="35" /></a>
 
 ## 💻 My Best Projects
 
