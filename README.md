@@ -4,11 +4,11 @@
 
 <h3 align="center">"Stay Hungry, Stay Foolish"</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic)
-
-- 💬 Ask me about **C++, Python, Web-Development**
+- 💬 Ask me about **C++, Python, Web-Development(MERN)**
 - 📫 How to reach me- **sagarmude7@gmail.com**
 - 👨‍💻 Intrested in - **Competative Programming, Web-Development, Blockchain, Marketing**
+
+![](https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic)
 
 ## ✨ Skills
 
@@ -22,6 +22,7 @@
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c.png" alt="C" title="C" height="45"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/c%2B%2B.png" alt="cplusplus" title="C++" height="40"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/python.png" alt="python" title="Python" height="40"/>
+  <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/python.png" alt="java" title="Java" height="40"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/jupyter.png" alt="jupyter" title="Jupyter" height="40"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/sql.png" alt="sqlite" title="SQLite3" height="40"/>
   <img src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/html.png" title="HTML5" alt="html5" height="40"/>
