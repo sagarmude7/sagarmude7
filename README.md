@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤓 I'm ֆaɢaʀ </h1>
-<h3 align="center">I'm a passionate web developer and a 2nd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
+<h3 align="center">I'm a passionate web developer and a 3rd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
 <h3 align="center">"Stay Hungry, Stay Foolish"</h3>
 
 - 💬 Ask me about - **C++, Python, Web-Development(MERN)**
