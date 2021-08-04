@@ -42,13 +42,17 @@
 
 ## 📞 Contact Me
 
+
 <p>
-<a title="LinkedIn Profile" href="https://linkedin.com/in/sagar-mude"><img alt="MY LinkedIn Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/linkedin.png" height="35" /></a>
-
-<a title="Twitter Profile" href="https://twitter.com/SAGARMUDE1"><img alt="MY Twitter Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/twitter.png" height="35" /></a>
-
-<a title="Instagram Profile" href="https://www.instagram.com/sagarmude7/"><img alt="MY Instagram Profile" src="https://github.com/sagarmude7/sagarmude7/blob/main/icons/instagram.png" height="35" /></a>
-
+<a href="https://twitter.com/SAGARMUDE1" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:sagarmude7@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/sagar-mude/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </p>
 
 ### 💻 My Github Logs
