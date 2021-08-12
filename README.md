@@ -59,5 +59,5 @@
 
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sagarmude7&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="160em" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmude7" alt="sagarmude7" />
+  <img height="160em" float="right" src="https://github-readme-streak-stats.herokuapp.com?user=sagarmude7&theme=radical" alt="sagarmude7" />
 </p>
