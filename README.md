@@ -1,17 +1,25 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🤓 I'm ֆaɢaʀ </h1>
-<h3 align="center">I'm a passionate web developer and a 3rd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
-<h3 align="center">"Stay Hungry, Stay Foolish"</h3>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm ֆaɢaʀ </h1>
+<h3 align="center">I'm a passionate Web Developer and a 3rd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
 
+- 🌱 I’m currently learning **Machine Learning**
+- 
 - 💬 Ask me about - **C++, Python, Web-Development(MERN)**
+  
+- 👨‍💻 Want to know more? Check out my [portfolio](https://sagarmude.netlify.app/) (OutDated)
+  
 - 📫 How to reach me - **sagarmude7@gmail.com**
-- 👨‍💻 Intrested in - **Competative Programming, Web-Development, Blockchain, Marketing**
+  
+- 👨‍💻 Intrested in - **Competative Programming, Web-Development, Machine Learning, Digital Marketing**
 
-![](https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic)
+- ⚡Fun Fact - **I'm also a good Chess Player, [Challenge Me](https://www.chess.com/member/sagarmude7)**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic" alt="sagarmude7" /> </p>
+
 
 ## ✨ Skills
 
 - Web Devlopment
-- C++,Python,JavaScript
+- C++, Python, JavaScript
 - Digital Marketing
 
 ## My Languages and Tools:
