@@ -11,7 +11,7 @@
   
 - 👨‍💻 Intrested in - **Competative Programming, Web-Development, Machine Learning, Digital Marketing**
 
-- ⚡Fun Fact - **I'm also a good Chess Player, [Challenge Me](https://www.chess.com/member/sagarmude7)**
+- ⚡Fun Fact - **I'm also a good Chess Player, [Challenge Me](https://www.chess.com/member/sagarmude)**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-sagarmude7&color=brightgreen&style=plastic" alt="sagarmude7" /> </p>
 
