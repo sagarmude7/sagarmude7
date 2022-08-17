@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm ֆaɢaʀ </h1>
-<h3 align="center">I'm a passionate Web Developer and a 3rd year B.Tech student of Information Technology at VJTI,Mumbai</h2>
+<h3 align="center">I'm a passionate Web Developer and a 4th year B.Tech student of Information Technology at VJTI,Mumbai</h2>
 
 - 🌱 I’m currently learning **Machine Learning**
   
